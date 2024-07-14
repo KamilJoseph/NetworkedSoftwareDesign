@@ -1,0 +1,1 @@
+{"identity":"Hello","_class":"PublishRequest","message":{"from":"Kamil Joseph","_class":"Message","body":"Hello world","when":1}}
