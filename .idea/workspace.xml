@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15586e3f-1e57-440d-b191-f7284b9453a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Networked Software Design.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/AccountRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/GetRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/OpenRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/PublishRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/QuitRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/SubscribeRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client/Request/UnsubscribeRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Response/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Response/MessageListResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Response/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Response/SuccessResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/ServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server/Text.txt" afterDir="false" />
-    </list>
+    <list default="true" id="15586e3f-1e57-440d-b191-f7284b9453a9" name="Changes" comment="Networked Software Design" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Client.executor": "Run",
-    "Application.Server.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Babita Joseph/Desktop/Sheffield Hallam University/Networked Software Design",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Babita Joseph/Desktop/Sheffield Hallam University/Networked Software Design&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720367212255</updated>
     </task>
+    <task id="LOCAL-00001" summary="Networked Software Design">
+      <option name="closed" value="true" />
+      <created>1720916855761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720916855761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Networked Software Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Networked Software Design" />
   </component>
 </project>
